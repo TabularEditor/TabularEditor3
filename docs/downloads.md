@@ -14,6 +14,13 @@ This page provides download and installation instructions for Tabular Editor 3.
 
 [Release notes](release-notes/beta-18.3.md)
 
+## Installation Instructions
+
+1. Download the MSI file (use the x86 version if your operating system doesn't support 64-bit applications).
+2. Run the MSI file. The installation wizard will guide you through the installation.
+
+It is not necessary to remove previous installations when upgrading to a newer version of Tabular Editor 3.
+
 ## History
 
 - 2021-04-27:
