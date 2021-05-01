@@ -1,23 +1,13 @@
-# Tabular Editor 3 BETA-18.3 Release Notes
+# Tabular Editor 3 BETA-18.1 Release Notes
 
-- Download [Tabular Editor 3 BETA-18.3](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.3.x86.msi)
-- Download [Tabular Editor 3 BETA-18.3 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.3.x64.msi)
+- Download [Tabular Editor 3 BETA-18.1](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.1.x86.msi)
+- Download [Tabular Editor 3 BETA-18.1 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.1.x64.msi)
 
-## Bigfixes in BETA-18.3:
-
-- Improved semantic analyzer performance on large models (regression in BETA-18.x)
-- Queuing a data refresh operation should no longer freeze the UI
-- Keyboard buttons (left/right arrows and F2 for rename) may now again be used to navigate the Tabular Explorer tree
-
-## Bugfixes in BETA-18.2:
-
-- The DAX parser now correctly recognizes object names containing double quotes (see issue #22).
-
-## New features in BETA-18.1:
+## New features in this release:
 
 - Update Table Schema from Power Query sources (see below)
 
-## Bugfixes in BETA-18.1:
+## Bugfixes in this release:
 
 - Tabular Editor will now remember skin settings between upgrades
 - Fixed a bug with lineage tags causing crashes when copying Calculated Tables or Calculation Group Tables

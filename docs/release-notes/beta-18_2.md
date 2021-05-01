@@ -1,13 +1,7 @@
-# Tabular Editor 3 BETA-18.3 Release Notes
+# Tabular Editor 3 BETA-18.2 Release Notes
 
-- Download [Tabular Editor 3 BETA-18.3](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.3.x86.msi)
-- Download [Tabular Editor 3 BETA-18.3 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.3.x64.msi)
-
-## Bigfixes in BETA-18.3:
-
-- Improved semantic analyzer performance on large models (regression in BETA-18.x)
-- Queuing a data refresh operation should no longer freeze the UI
-- Keyboard buttons (left/right arrows and F2 for rename) may now again be used to navigate the Tabular Explorer tree
+- Download [Tabular Editor 3 BETA-18.2](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.2.x86.msi)
+- Download [Tabular Editor 3 BETA-18.2 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.2.x64.msi)
 
 ## Bugfixes in BETA-18.2:
 
