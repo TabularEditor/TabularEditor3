@@ -1,11 +1,12 @@
 Tabular Editor 3
 ================
 
-Coming soon
+This is documentation for Tabular Editor 3 - the ultimate productivity tool for Analysis Services tabular models and Power BI datasets.
 
 .. _intro-docs:
 .. toctree::
   :maxdepth: 1
   :caption: Introduction
 
-  Getting-Started
+  getting-started
+  downloads
