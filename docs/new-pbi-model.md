@@ -15,7 +15,10 @@ This page walks you through the process of creating a new Power BI dataset from 
 
 1. From the File menu, choose New > Model... or hit `CTRL+N`
 
-![](https://user-images.githubusercontent.com/8976200/116811596-860f2080-ab4a-11eb-917b-20501c1b52ef.png)
+```eval_rst
+.. image:: https://user-images.githubusercontent.com/8976200/116813604-c83d5f80-ab54-11eb-8a6f-4347f26aa626.png
+  :width: 400
+```
 
 - Provide a name for your model or use the default value. Then, set the compatibility level to "1560 (Power BI Dataset)".
 - For the best development experience, check the "Use workspace database" option. This requires that you have a development workspace available in Power BI, with XMLA read/write enabled. When you click OK, you will be prompted to enter the connection string for the Power BI workspace in which you want the workspace database created.

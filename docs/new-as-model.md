@@ -16,7 +16,7 @@ This page walks you through the process of creating a new Analysis Services tabu
 - From the File menu, choose New > Model... or hit `CTRL+N` 
 
 ```eval_rst
-.. image:: https://user-images.githubusercontent.com/8976200/116813523-67ae2280-ab54-11eb-9bf3-9f80fe89aa41.png
+.. image:: https://user-images.githubusercontent.com/8976200/116813646-02a6fc80-ab55-11eb-89b0-8909b768ce7e.png
   :width: 400
 ```
 
