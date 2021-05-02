@@ -21,5 +21,9 @@ This page walks you through the process of creating a new Analysis Services tabu
   - 1200 (Works with SQL Server 2016 or newer, and Azure Analysis Services)
   - 1400 (Works with SQL Server 2017 or newer, and Azure Analysis Services)
   - 1500 (Works with SQL Server 2019 or Azure Analysis Services)
-- For the best development experience, check the "Use workspace database" option. This requires that you have an instance of Analysis Services available on which your workspace database will be deployed. This could be a local or a remote instance of SQL Server Analysis Services or it could be an instance of Azure Analysis Services.
+- For the best development experience, check the "Use workspace database" option. This requires that you have an instance of Analysis Services available on which your workspace database will be deployed. This could be a local or a remote instance of SQL Server Analysis Services or it could be an instance of Azure Analysis Services. When you click OK, you will be prompted to enter the connection string for the Analysis Services instance in which you want the workspace database created.
 
+```eval_rst
+.. note::
+    With a workspace database, you can validate Power Query (M expressions) and import table schema from Power Query expressions. You can also refresh and query data in the workspace database, making it easier to debug and test your DAX expressions.
+```
