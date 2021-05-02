@@ -16,4 +16,5 @@ This is documentation for Tabular Editor 3 - the ultimate productivity tool for 
   :maxdepth: 0
   :caption: How-to guides
 
-  new-model
+  new-as-model
+  new-pbi-model
