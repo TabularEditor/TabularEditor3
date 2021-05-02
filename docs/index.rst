@@ -10,3 +10,10 @@ This is documentation for Tabular Editor 3 - the ultimate productivity tool for 
 
   getting-started
   downloads
+
+.. _howto-docs:
+.. toctree::
+  :maxdepth: 0
+  :caption: How-to guides
+
+  new-model
