@@ -46,8 +46,7 @@ node_modules_bin_dir = os.path.join(project_dir, 'node_modules', '.bin')
 # ones.
 extensions = [
     "recommonmark",
-    "sphinx_markdown_tables",
-    "sphinxemoji.sphinxemoji"
+    "sphinx_markdown_tables"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
