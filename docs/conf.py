@@ -46,8 +46,7 @@ node_modules_bin_dir = os.path.join(project_dir, 'node_modules', '.bin')
 # ones.
 extensions = [
     "recommonmark",
-    "sphinx_markdown_tables",
-    "mdx_del_ins"
+    "sphinx_markdown_tables"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -68,7 +67,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Tabular Editor'
-copyright = '2016-2020, Daniel Otykier'
+copyright = '2016-2021, Daniel Otykier'
 author = 'Daniel Otykier'
 
 # The version info for the project you're documenting, acts as replacement for
