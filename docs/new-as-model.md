@@ -4,12 +4,10 @@
 
 This page walks you through the process of creating a new Analysis Services tabular model from scratch using Tabular Editor 3.
 
-```eval_rst
-.. important::
-    Tabular Editor 3 Standard Edition is limited to <a href = "https://docs.microsoft.com/en-us/analysis-services/analysis-services-features-supported-by-the-editions-of-sql-server-2016?view=asallproducts-allversions#tabular-models">SQL Server Standard Edition</a> and <a href="https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-overview#basic-tier">Azure Analysis Services Basic Tier</a>. Note that certain modelling features are not supported at these tiers.
-
-    Tabular Editor 3 Desktop Edition does not have any support for Analysis Services tabular models.
-```
+> [!IMPORTANT]
+> Tabular Editor 3 Standard Edition is limited to [SQL Server Standard Edition](https://docs.microsoft.com/en-us/analysis-services/analysis-services-features-supported-by-the-editions-of-sql-server-2016?view=asallproducts-allversions#tabular-models) and [Azure Analysis Services Basic Tier](https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-overview#basic-tier). Note that certain modelling features are not supported at these tiers.
+>
+> Tabular Editor 3 Desktop Edition does not have any support for Analysis Services tabular models.
 
 ##### Creating a new model
 

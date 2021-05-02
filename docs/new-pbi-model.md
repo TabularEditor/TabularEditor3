@@ -4,12 +4,10 @@
 
 This page walks you through the process of creating a new Power BI dataset from scratch using Tabular Editor 3.
 
-```eval_rst
-.. important::
-    Tabular Editor 3 Standard Edition is limited to <a href="https://docs.microsoft.com/en-us/power-bi/admin/service-premium-per-user-faq">Power BI Premium Per User</a>. For Power BI Premium or Embedded capacity, you must upgrade to Tabular Editor 3 Enterprise Edition. In either case, the Power BI workspace in which the dataset is to be deployed, must have its <a href="https://docs.microsoft.com/en-us/power-bi/admin/service-premium-connect-tools#enable-xmla-read-write">XMLA read/write endpoint enabled</a>.
-
-    Tabular Editor 3 Desktop Edition does not have any support for Power BI datasets.
-```
+> [!IMPORTANT]
+> Tabular Editor 3 Standard Edition is limited to [Power BI Premium Per User](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-per-user-faq). For Power BI Premium or Embedded capacity, you must upgrade to Tabular Editor 3 Enterprise Edition. In either case, the Power BI workspace in which the dataset is to be deployed, must have its [XMLA read/write endpoint enabled](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-connect-tools#enable-xmla-read-write).
+>
+> Tabular Editor 3 Desktop Edition does not have any support for Power BI datasets.
 
 1. From the File menu, choose New > Model... or hit `CTRL+N`
 
