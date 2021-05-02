@@ -15,7 +15,10 @@ This page walks you through the process of creating a new Analysis Services tabu
 
 - From the File menu, choose New > Model... or hit `CTRL+N` 
 
-![image](https://user-images.githubusercontent.com/8976200/116811279-d5545180-ab48-11eb-8060-ebc1941e60ef.png)
+```eval_rst
+.. image:: https://user-images.githubusercontent.com/8976200/116813523-67ae2280-ab54-11eb-9bf3-9f80fe89aa41.png
+  :width: 400
+```
 
 - Provide a name for your model or use the default value. Then, choose the compatibility level depending on which version of Analysis Services you are targetting. Your options are the following:
   - 1200 (Works with SQL Server 2016 or newer, and Azure Analysis Services)
