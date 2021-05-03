@@ -1,7 +1,18 @@
-# Tabular Editor 3 BETA-18.3 Release Notes
+# Tabular Editor 3 BETA-18.4 Release Notes
 
-- Download [Tabular Editor 3 BETA-18.3](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.3.x86.msi)
-- Download [Tabular Editor 3 BETA-18.3 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.3.x64.msi)
+- Download [Tabular Editor 3 BETA-18.4](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.4.x86.msi)
+- Download [Tabular Editor 3 BETA-18.4 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.4.x64.msi)
+
+## New features in BETA-18.4:
+
+- Tabular Editor 3 will now store (encrypted) credentials for data sources in the personal .tmuo file. This is ideal when using a workspace database, as you can then specify a set of credentials different from those defined in the Model.bim file. If you're using version control, make sure to ignore the .tmuo extension. Even though the credentials in the file are encrypted with the Windows user key, the idea is that each developer can have their own .tmuo file containing credentials and preferences that apply only for them, and therefore this file should not be included in version control.
+- Tabular Editor 3 now prompts for credentials that are going to be overwritten during a deployment operation, so you no longer have to set the credentials through another tool after deployment. Please note that Power Query data sources will always have their credentials wiped during a deployment operation, so credentials for these types of data sources must be entered upon every deployment.
+- Upon creating a new model, you will now have the option to connect to a workspace database immediately (recommended).
+
+## Bugfixes in BETA-18.4:
+
+- Fixed an issue with keyboard shortcuts and certain actions (Undo/Redo, etc.) not always being enabled when switching the focus between different editors.
+- Find/replace dialog now has a minimum size to avoid scrollbars.
 
 ## Bugfixes in BETA-18.3:
 
