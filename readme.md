@@ -2,6 +2,8 @@
 
 This is the Community Support forum for **Tabular Editor 3**.
 
+Before asking a question or reporting a bug on our [issue tracker](https://github.com/TabularEditor/TabularEditor3/issues), please make sure you have the [latest version]((https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)) of Tabular Editor 3 installed.
+
 - Visit [TabularEditor.com](https://tabulareditor.com)
 - Read our [Getting Started Guide](https://docs.tabulareditor.com/projects/te3/en/latest/getting-started.html)
 - [Download Tabular Editor 3](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)
