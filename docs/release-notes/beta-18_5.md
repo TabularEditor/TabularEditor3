@@ -1,5 +1,6 @@
 - Download [Tabular Editor 3 BETA-18.5](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.5.x86.msi)
 - Download [Tabular Editor 3 BETA-18.5 (64 bit)](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.5.x64.msi)
+- [All releases](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)
 
 ## New features in BETA-18.5:
 
