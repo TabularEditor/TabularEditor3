@@ -6,7 +6,7 @@ This page walks you through the process of creating a new Analysis Services tabu
 
 ```eval_rst
 .. important::
-    Tabular Editor 3 Standard Edition is limited to `SQL Server Standard Edition <https://docs.microsoft.com/en-us/analysis-services/analysis-services-features-supported-by-the-editions-of-sql-server-2016?view=asallproducts-allversions#tabular-models>`__ and `Azure Analysis Services Basic Tier <https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-overview#basic-tier>`__. Note that certain modelling features are not supported at these tiers.
+    Tabular Editor 3 Standard Edition is limited to `SQL Server Standard Edition <https://docs.microsoft.com/en-us/analysis-services/analysis-services-features-supported-by-the-editions-of-sql-server-2016?view=asallproducts-allversions#tabular-models>`__ and `Azure Analysis Services Basic Tier <https://docs.microsoft.com/en-us/azure/analysis-services/analysis-services-overview#basic-tier>`__. Note that certain modelling features are not supported at these tiers. `More information </editions.html>`
 
     Tabular Editor 3 Desktop Edition does not have any support for Analysis Services tabular models.
 ```
