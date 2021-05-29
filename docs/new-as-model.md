@@ -10,7 +10,7 @@ This page walks you through the process of creating a new Analysis Services tabu
 
     Tabular Editor 3 Desktop Edition does not have any support for Analysis Services tabular models.
     
-    `More information <https://docs.tabulareditor.com/projects/te3/en/latest/editions.html>`.
+    `More information </editions.md>`__.
 ```
 
 ##### Creating a new model
