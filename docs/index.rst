@@ -5,10 +5,11 @@ This is the documentation site for Tabular Editor 3 - the ultimate productivity 
 
 .. _intro-docs:
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 0
   :caption: Introduction
 
   getting-started
+  editions
   downloads
 
 .. _howto-docs:
