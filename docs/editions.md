@@ -14,18 +14,18 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 
 |Scenario|Desktop Edition|Standard Edition|Enterprise Edition
 |---|---|---|---|
-|Use Tabular Editor 3 as an External Tool for Power BI Desktop|&#10004;|&#10004;|&#10004;|
+|External Tool for Power BI Desktop|&#10004;|&#10004;|&#10004;|
 |Load/save model metadata to disk*|&#10060;|&#10004;|&#10004;|
-|Power BI Premium Per User workspaces|&#10060;|&#10004;|&#10004;|
-|SQL Server Analysis Services Developer Edition|&#10060;|&#10004;\*\*|&#10004;|
-|SQL Server Analysis Services Standard Edition|&#10060;|&#10004;|&#10004;|
-|SQL Server Analysis Services Enterprise Edition|&#10060;|&#10060;|&#10004;|
-|Azure Analysis Services Developer Tier|&#10060;|&#10004;\*\*|&#10004;|
-|Azure Analysis Services Basic Tier|&#10060;|&#10004;|&#10004;|
-|Azure Analysis Services Standard Tier|&#10060;|&#10060;|&#10004;|
+|Power BI Premium Per User|&#10060;|&#10004;|&#10004;|
+|SQL Server Developer Edition|&#10060;|&#10004;\*\*|&#10004;|
+|SQL Server Standard Edition|&#10060;|&#10004;|&#10004;|
+|SQL Server Enterprise Edition|&#10060;|&#10060;|&#10004;|
+|Azure AS Developer Tier|&#10060;|&#10004;\*\*|&#10004;|
+|Azure AS Basic Tier|&#10060;|&#10004;|&#10004;|
+|Azure AS Standard Tier|&#10060;|&#10060;|&#10004;|
 |Power BI Report Server|&#10060;|&#10060;|&#10004;|
-|Power BI Premium Capacity Workspaces (P SKUs)|&#10060;|&#10060;|&#10004;|
-|Power BI Embedded Workspaces (A/EM SKUs)|&#10060;|&#10060;|&#10004;|
+|Power BI Premium Capacity (P SKUs)|&#10060;|&#10060;|&#10004;|
+|Power BI Embedded Capacity (A/EM SKUs)|&#10060;|&#10060;|&#10004;|
 
 \***Note:** Supported file formats are: **.pbit** (Power BI Template), **.bim** (Analysis Services model metadata), **.vpax** (VertiPaq Analyzer) and **database.json** (Tabular Editor folder structure).
 
