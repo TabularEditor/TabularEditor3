@@ -41,6 +41,6 @@ Specifically for Analysis Services (not Power BI) data models, we restrict a few
 There are no other feature differences between the Tabular Editor 3 editions, than the ones listed above. 
 
 ```eval_rst
-.. important::
-    Please keep in mind that Power BI Desktop `currently does not support all Data Modelling operations <https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-external-tools#data-modeling-operations>`. For this reason, Tabular Editor 3 by default blocks operations that are not supported by Power BI Desktop. However, this restriction can be removed under Tools > Preferences > Power BI.
+.. note::
+    Please keep in mind that Power BI Desktop `currently does not support all Data Modelling operations <https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-external-tools#data-modeling-operations>`__. For this reason, Tabular Editor 3 by default blocks operations that are not supported by Power BI Desktop. However, this restriction can be removed under Tools > Preferences > Power BI.
 ```
