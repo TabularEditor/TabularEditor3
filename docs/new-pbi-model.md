@@ -10,7 +10,7 @@ This page walks you through the process of creating a new Power BI dataset from 
 
     Tabular Editor 3 Desktop Edition does not have any support for Power BI datasets.
     
-    `More information </editions.html>`
+    `More information </editions.md>`__
 ```
 
 ##### Creating a new dataset
