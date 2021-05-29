@@ -12,7 +12,7 @@ The main difference between the various editions of Tabular Editor 3, is which t
 
 We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier, and as such, these may only be used with Tabular Editor 3 Enterprise Edition. Please refer to the matrix below for the full overview of supported scenarios:
 
-|Scenario|Desktop Edition|Standard Edition|Enterprise Edition
+|Scenario / Edition|Desktop|Standard|Enterprise
 |---|---|---|---|
 |External Tool for Power BI Desktop|&#10004;|&#10004;|&#10004;|
 |Load/save model metadata to disk*|&#10060;|&#10004;|&#10004;|
@@ -33,7 +33,7 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 
 Specifically for Analysis Services (not Power BI) data models, we restrict a few data modelling operations inside Tabular Editor 3 as well, corresponding to the restrictions on Azure Analysis Services Basic Tier and SQL Server Analysis Services Standard Edition:
 
-|Feature|Standard Edition|Enterprise Edition
+|Feature / Edition|Standard|Enterprise
 |---|---|---|
 |Perspectives|&#10060;|&#10004;|
 |Multiple partitions|&#10060;|&#10004;|
