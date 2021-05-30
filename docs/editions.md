@@ -31,16 +31,20 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 
 \*\***Note:** Enterprise Edition is required if the Analysis Services data model contains perspectives or tables with multiple partitions.
 
-## Feature Restrictions for non-Power BI models
+## Modelling Restrictions for non-Power BI models
 
 Specifically for Analysis Services (not Power BI) data models, we restrict a few data modelling operations inside Tabular Editor 3 as well, corresponding to the restrictions on Azure Analysis Services Basic Tier and SQL Server Analysis Services Standard Edition:
 
-|Feature / Edition|Standard|Enterprise
+|Modelling Feature / Edition|Standard|Enterprise
 |---|---|---|
 |Perspectives|&#10060;|&#10004;|
 |Multiple partitions|&#10060;|&#10004;|
 
 There are no other feature differences between the Tabular Editor 3 editions, than the ones listed above. 
+
+## Modelling Restrictions for Power BI models
+
+There are no feature differences across the Tabular Editor 3 editions for Power BI data models.
 
 ```eval_rst
 .. note::
