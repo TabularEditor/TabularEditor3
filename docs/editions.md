@@ -31,6 +31,8 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 
 \*\***Note:** Enterprise Edition is required if the Analysis Services data model contains perspectives or tables with multiple partitions.
 
+## Feature Restrictions for non-Power BI models
+
 Specifically for Analysis Services (not Power BI) data models, we restrict a few data modelling operations inside Tabular Editor 3 as well, corresponding to the restrictions on Azure Analysis Services Basic Tier and SQL Server Analysis Services Standard Edition:
 
 |Feature / Edition|Standard|Enterprise
