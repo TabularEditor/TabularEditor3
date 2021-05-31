@@ -50,3 +50,23 @@ There are no feature differences across the Tabular Editor 3 editions for Power 
 .. note::
     Please keep in mind that Power BI Desktop `currently does not support all Data Modelling operations <https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-external-tools#data-modeling-operations>`__. For this reason, Tabular Editor 3 by default blocks operations that are not supported by Power BI Desktop. However, this restriction can be removed under Tools > Preferences > Power BI.
 ```
+
+## Personal vs. Transferable licenses
+
+Our Desktop Edition and Standard Editions uses a personal licensing model. This means, that a user receives their own personal License Key, which can not be shared or transferred to other users. When a user no longer requires the product, their subscription should be cancelled to avoid recurring payments.
+
+Our Enterprise Edition uses a transferable licensing model. This means, that multiple users can share the same license key. Each license holds a number of "seats" up to the purchased quantity. Once a user activates their installation of Tabular Editor 3, they will occupy a seat in the license. When a user no longer requires the product, [contact support](mailto:support@tabulareditor.com?subject=Transferable%20License%20Rotation) in order to free the seat for another user.
+
+## Enterprise Edition Volume Discounts
+
+Our Enterprise Edition is priced in tiers, according to the following table (similar discount rates apply to monthly commitment):
+
+|Tier|Yearly price per seat|
+|---|---|
+|First 5 seats|$950.00 USD|
+|Next 6-10 seats|$900.00 USD|
+|Next 11-20 seats|$850.00 USD|
+|Next 21-50 seats|$800.00 USD|
+|Seats 51 and above|$750.00 USD|
+
+If you require more than 100 seats, please [contact sales](mailto:sales@tabulareditor.com) for a quote.
