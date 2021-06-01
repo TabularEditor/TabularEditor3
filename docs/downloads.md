@@ -14,6 +14,8 @@ This page provides download and installation instructions for Tabular Editor 3.
 
 [Release notes for Tabular Editor 3.0.1](release-notes/3_0_1.md)
 
+If you need to change your license key, [follow this guide](https://github.com/TabularEditor/TabularEditor3/issues/15).
+
 ## Installation Instructions
 
 1. Download the MSI file (use the x86 version if your operating system doesn't support 64-bit applications).
