@@ -4,15 +4,15 @@ This page provides download and installation instructions for Tabular Editor 3.
 
 ## Production builds
 
-- Latest production release (x64): (*Check back later*)
-- Latest production release (x86): (*Check back later*)
+- Latest production release (x64): [TabularEditor.3.0.1.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x64.msi)
+- Latest production release (x86): [TabularEditor.3.0.1.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x86.msi)
 
 ## Preview builds
 
 - Latest preview release (x64): [TabularEditor.3.BETA-18.5.x64.msi](https://cdn.tabulareditor.com/files/latest/TabularEditor.3.x64.msi)
 - Latest preview release (x86): [TabularEditor.3.BETA-18.5.x86.msi](https://cdn.tabulareditor.com/files/latest/TabularEditor.3.x86.msi)
 
-[Release notes for Tabular Editor 3 BETA-18.5](release-notes/beta-18_5.md)
+[Release notes for Tabular Editor 3.0.1](release-notes/3_0_1.md)
 
 ## Installation Instructions
 
@@ -23,6 +23,9 @@ It is not necessary to remove previous installations when upgrading to a newer v
 
 ## History
 
+- 2021-06-01:
+  - [TabularEditor.3.0.1.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x64.msi) (*[Release notes](release-notes/3_0_1.md)*)
+  - [TabularEditor.3.0.1.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x86.msi) (*[Release notes](release-notes/3_0_1.md)*)
 - 2021-05-27:
   - [TabularEditor.3.BETA-18.5.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.5.x64.msi) (*[Release notes](release-notes/beta-18_5.md)*)
   - [TabularEditor.3.BETA-18.5.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.BETA-18.5.x86.msi) (*[Release notes](release-notes/beta-18_5.md)*)
