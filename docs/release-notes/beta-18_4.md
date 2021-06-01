@@ -46,7 +46,7 @@ A little known fact about the Analysis Services engine is that it is actually a 
 
 So, in order to detect schema changes for Power Query partitions, Tabular Editor 3 will now add a hidden, temporary table to the model, populate that table using the M-function [`Table.Schema`](https://docs.microsoft.com/en-us/powerquery-m/table-schema) on the source query that we want to detect the schema for. Then, that temporary table is refreshed on the server (using the credentials that are already present on the server to access the data source) - this refresh only takes a split second, thanks to query folding happening inside the M engine. Finally, Tabular Editor will query the table to read the schema, before rolling back the entire transaction. The result:
 
-![image](https://github.com/TabularEditor3/PublicPreview/blob/master/update%20schema.gif?raw=true)
+![image](https://github.com/TabularEditor/TabularEditor3/blob/master/media/update%20schema.gif?raw=true)
 
 The only caveat is of course that Tabular Editor 3 has to be connected to an instance of Analysis Services, but it doesn't matter whether or not the model you're working with holds any data - as long as the credentials to the data sources are stored in AS (and AS can actually access the data source). This technique is particularly useful if you use Tabular Editor 3's [workspace mode](https://docs.tabulareditor.com/Workspace-Database.html).
 
