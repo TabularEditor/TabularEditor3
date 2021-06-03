@@ -10,3 +10,7 @@ Before asking a technical question or reporting a bug on our [issue tracker](htt
 - View [all downloads and version history](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)
 
 Do you have licensing questions or need assistance with your invoice? Please reach out to [sales@tabulareditor.com](mailto:sales@tabulareditor.com)
+
+## Tabular Editor 3 Introduction with Reid Havens
+
+[![Tabular Editor 3 Introduction video on Youtube](https://img.youtube.com/vi/pt3DdcjfImY/0.jpg)](https://www.youtube.com/watch?v=pt3DdcjfImY)
