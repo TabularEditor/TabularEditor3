@@ -4,17 +4,12 @@ This page provides download and installation instructions for Tabular Editor 3.
 
 ## Production builds
 
-- Latest production release (x64): [TabularEditor.3.0.1.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x64.msi)
-- Latest production release (x86): [TabularEditor.3.0.1.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x86.msi)
+- Latest production release (x64): [TabularEditor.3.0.2.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x64.msi)
+- Latest production release (x86): [TabularEditor.3.0.2.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x86.msi)
 
-## Preview builds
+[Release notes for Tabular Editor 3.0.2](release-notes/3_0_2.md)
 
-- Latest preview release (x64): [TabularEditor.3.BETA-18.5.x64.msi](https://cdn.tabulareditor.com/files/latest/TabularEditor.3.x64.msi)
-- Latest preview release (x86): [TabularEditor.3.BETA-18.5.x86.msi](https://cdn.tabulareditor.com/files/latest/TabularEditor.3.x86.msi)
-
-[Release notes for Tabular Editor 3.0.1](release-notes/3_0_1.md)
-
-If you need to change your license key, [follow this guide](https://github.com/TabularEditor/TabularEditor3/issues/15).
+If you need to change your license key, you can do so under Help > About Tabular Editor (before opening a model in Tabular Editor 3).
 
 ## Installation Instructions
 
@@ -25,6 +20,9 @@ It is not necessary to remove previous installations when upgrading to a newer v
 
 ## History
 
+- 2021-06-01:
+  - [TabularEditor.3.0.2.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x64.msi) (*[Release notes](release-notes/3_0_2.md)*)
+  - [TabularEditor.3.0.2.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x86.msi) (*[Release notes](release-notes/3_0_2.md)*)
 - 2021-06-01:
   - [TabularEditor.3.0.1.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x64.msi) (*[Release notes](release-notes/3_0_1.md)*)
   - [TabularEditor.3.0.1.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.1.x86.msi) (*[Release notes](release-notes/3_0_1.md)*)
