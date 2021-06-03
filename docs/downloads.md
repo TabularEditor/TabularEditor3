@@ -20,7 +20,7 @@ It is not necessary to remove previous installations when upgrading to a newer v
 
 ## History
 
-- 2021-06-01:
+- 2021-06-03:
   - [TabularEditor.3.0.2.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x64.msi) (*[Release notes](release-notes/3_0_2.md)*)
   - [TabularEditor.3.0.2.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x86.msi) (*[Release notes](release-notes/3_0_2.md)*)
 - 2021-06-01:
