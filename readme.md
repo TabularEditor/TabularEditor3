@@ -8,6 +8,7 @@ Before asking a technical question or reporting a bug on our [issue tracker](htt
 - Compare [Tabular Editor 3 Editions](https://docs.tabulareditor.com/projects/te3/en/latest/editions.html)
 - Read our [Getting Started Guide](https://docs.tabulareditor.com/projects/te3/en/latest/getting-started.html)
 - View [all downloads and version history](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)
+- Looking for the [free, open-source version? (Tabular Editor 2.x)](https://github.com/otykier/tabulareditor)
 
 Do you have licensing questions or need assistance with your invoice? Please reach out to [sales@tabulareditor.com](mailto:sales@tabulareditor.com)
 
