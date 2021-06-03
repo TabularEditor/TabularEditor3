@@ -2,10 +2,11 @@
 
 This is the Community Support forum for **Tabular Editor 3**.
 
-Before asking a technical question or reporting a bug on our [issue tracker](https://github.com/TabularEditor/TabularEditor3/issues), please make sure you have the [latest version](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html) of Tabular Editor 3 installed.
+Before asking a technical question or reporting a bug on our [issue tracker](https://github.com/TabularEditor/TabularEditor3/issues), please make sure you have the [latest version](https://github.com/TabularEditor/TabularEditor3/releases/latest) of Tabular Editor 3 installed.
 
 - Visit [TabularEditor.com](https://tabulareditor.com)
+- Compare [Tabular Editor 3 Editions](https://docs.tabulareditor.com/projects/te3/en/latest/editions.html)
 - Read our [Getting Started Guide](https://docs.tabulareditor.com/projects/te3/en/latest/getting-started.html)
-- [Download Tabular Editor 3](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)
+- View [all downloads and version history](https://docs.tabulareditor.com/projects/te3/en/latest/downloads.html)
 
 Do you have licensing questions or need assistance with your invoice? Please reach out to [sales@tabulareditor.com](mailto:sales@tabulareditor.com)
