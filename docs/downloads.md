@@ -4,10 +4,10 @@ This page provides download and installation instructions for Tabular Editor 3.
 
 ## Production builds
 
-- Latest production release (x64): [TabularEditor.3.0.3.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.3.x64.msi)
-- Latest production release (x86): [TabularEditor.3.0.3.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.3.x86.msi)
+- Latest production release (x64): [TabularEditor.3.0.4.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.4.x64.msi)
+- Latest production release (x86): [TabularEditor.3.0.4.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.4.x86.msi)
 
-[Release notes for Tabular Editor 3.0.3](release-notes/3_0_3.md)
+[Release notes for Tabular Editor 3.0.4](release-notes/3_0_4.md)
 
 If you need to change your license key, you can do so under Help > About Tabular Editor (before opening a model in Tabular Editor 3).
 
@@ -21,8 +21,8 @@ It is not necessary to remove previous installations when upgrading to a newer v
 ## History
 
 - 2021-06-08:
-  - [TabularEditor.3.0.3.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.3.x64.msi) (*[Release notes](release-notes/3_0_3.md)*)
-  - [TabularEditor.3.0.3.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.3.x86.msi) (*[Release notes](release-notes/3_0_3.md)*)
+  - [TabularEditor.3.0.4.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.4.x64.msi) (*[Release notes](release-notes/3_0_4.md)*)
+  - [TabularEditor.3.0.4.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.4.x86.msi) (*[Release notes](release-notes/3_0_4.md)*)
 - 2021-06-03:
   - [TabularEditor.3.0.2.x64.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x64.msi) (*[Release notes](release-notes/3_0_2.md)*)
   - [TabularEditor.3.0.2.x86.msi](https://cdn.tabulareditor.com/files/TabularEditor.3.0.2.x86.msi) (*[Release notes](release-notes/3_0_2.md)*)
