@@ -72,12 +72,12 @@ Our Enterprise Edition is priced in tiers, according to the following table (sim
 As an example, if you need 12 seats, the price breaks down as follow:
 
 ```
-Seats 1-5:    5 * $ 950.00 = $  4,750.00
-Seats 6-10:   5 * $ 900.00 = $  4,500.00
-Seats 11-12:  2 * $ 850.00 = $  1,700.00
-----------------------------------------
-Total                        $ 10,950.00
-========================================
+Seats 1-5:    5 x 950.00 = $  4,750.00
+Seats 6-10:   5 x 900.00 = $  4,500.00
+Seats 11-12:  2 x 850.00 = $  1,700.00
+--------------------------------------
+Total                      $ 10,950.00
+======================================
 ```
 
 If you require more than 100 seats, please <a href="mailto:sales@tabulareditor.com">contact sales</a> for a quote.
