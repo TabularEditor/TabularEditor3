@@ -24,7 +24,6 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 |Azure AS Developer Tier|&#10060;|&#10004;†|&#10004;|
 |Azure AS Basic Tier|&#10060;|&#10004;|&#10004;|
 |Azure AS Standard Tier|&#10060;|&#10060;|&#10004;|
-|Power BI Report Server|&#10060;|&#10060;|&#10004;|
 |Power BI Premium Capacity (P SKUs)|&#10060;|&#10060;|&#10004;|
 |Power BI Embedded Capacity (A/EM SKUs)|&#10060;|&#10060;|&#10004;|
 
