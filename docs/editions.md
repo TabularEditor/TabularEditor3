@@ -32,7 +32,7 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 
 †**Note:** Enterprise Edition is required if the Analysis Services data model contains perspectives or tables with multiple partitions (does not apply to Power BI Desktop or Power BI Premium Per User models).
 
-‡**Note:** Workspace Mode allows Tabular Editor 3 to simultaneously save model metadata to disk and synchronize a database on any of the editions of Analysis Services supported by the Tabular Editor 3 edition purchased.
+‡**Note:** Workspace Mode allows Tabular Editor 3 to simultaneously save model metadata to disk and synchronize a database on any of the editions of Analysis Services or Power BI supported by the Tabular Editor 3 edition purchased.
 
 ## Modelling Restrictions for non-Power BI models
 
