@@ -9,7 +9,7 @@ The main difference between the various editions of Tabular Editor 3, is which t
 - SQL Server (2016+) Analysis Services (Developer, Standard, **Enterprise editions**)
 - Azure Analysis Services (Developer, Basic, **Standard tiers**)
 
-We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier, and as such, these may only be used with Tabular Editor 3 Enterprise Edition. Please refer to the matrix below for the full overview of supported scenarios:
+We consider the **highlighted** flavors of Analysis Services to be Enterprise-Tier, and as such, these may only be used with Tabular Editor 3 Enterprise Edition. Please refer to the matrix below for the full overview of supported scenarios:
 
 |Scenario / Edition|Desktop|Standard|Enterprise
 |---|---|---|---|
