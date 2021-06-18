@@ -11,7 +11,7 @@ This is the documentation site for Tabular Editor 3 - the ultimate productivity 
   getting-started
   editions
   downloads
-  security_privacy
+  security-privacy
 
 .. _howto-docs:
 .. toctree::
