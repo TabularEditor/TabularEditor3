@@ -6,7 +6,6 @@ The main difference between the various editions of Tabular Editor 3, is which t
 
 - Power BI Desktop
 - Power BI Premium through the XMLA Endpoint (Premium Per User or **Premium/Embedded Capacity gen1/gen2**)
-- **Power BI Report Server**
 - SQL Server (2016+) Analysis Services (Developer, Standard, **Enterprise editions**)
 - Azure Analysis Services (Developer, Basic, **Standard tiers**)
 
