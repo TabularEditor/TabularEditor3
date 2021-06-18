@@ -15,6 +15,7 @@ We consider the highlighted "flavors" of Analysis Services to be Enterprise-Tier
 |Scenario / Edition|Desktop|Standard|Enterprise
 |---|---|---|---|
 |External Tool for Power BI Desktop|&#10004;|&#10004;|&#10004;|
+|Export/Import VPAX statistics|&#10004;|&#10004;|&#10004;|
 |Load/save model metadata to disk*|&#10060;|&#10004;|&#10004;|
 |Workspace Mode|&#10060;|&#10004;|&#10004;|
 |Power BI Premium Per User|&#10060;|&#10004;|&#10004;|
