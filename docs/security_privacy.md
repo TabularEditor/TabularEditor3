@@ -26,7 +26,7 @@ In the following, "model data" refers to the actual data records stored within t
 
 Because of the requirement for a user to have administrative privileges on the instance of Analysis Services or Power BI workspace that they are connecting to, the user will, by definition, also have access to all data content of the Analysis Services database or Power BI dataset. Tabular Editor only allows retrieval of data through the AMO client library mentioned above. Tabular Editor 3 provides features for browsing and querying model data. Regardless of which technique is used to access the data **Tabular Editor only stores retrieved data in local memory. Tabular Editor does not collect, publish, share, transfer or otherwise make public any model data obtained through the tool**. If a user chooses to copy or export query results obtained through Tabular Editor, it is their responsibility to treat the copied or exported data according to the confidentiality of the data. This is no different than a user connecting to the Analysis Services database or Power BI dataset using client tools such as Excel or Power BI, in which case they will also have the option to copy query results.
 
-### Connected features
+### Web requests
 
 Tabular Editor may perform requests to online resources (web URLs) only in the following cases:
 
@@ -39,3 +39,9 @@ Tabular Editor may perform requests to online resources (web URLs) only in the f
 - **Using C# scripts.** Tabular Editor allows users to write and execute code written in C#, for purposes of automation. The user is always responsible for ensuring that executed code does not cause any unintended sharing of data. Tabular Editor ApS cannot be held liable for any damages, losses or leaks caused by the use of the C# scripting feature. Tabular Editor will never execute C# scripts without the explicit action of the user.
 
 \***Any information we obtain through the license activation service, the usage telemetry or the error reports, is kept confidential. We will not share, publish or distribute the data collected in any way, shape or form.**
+
+## Application Security
+
+Tabular Editor does not require any elevated privileges on the Windows machine in which it is installed, neither does it access any restricted resources on the machine. One exception from this rule, is if using the Tabular Editor installer file (.msi), in which case the executable and support files required by the tool, are by default copied to the `Program Files` folder, which typically requires elevated permission. Both the Tabular Editor binary files as well as the installer file, have been signed with a code signing certificate issued to Kapacity A/S, which is your guarantee that the code has not been tampered with by 3rd parties.
+
+When the application is executing, all access to external resources are performed through the AMO/TOM client library or the web requests mentioned above.
