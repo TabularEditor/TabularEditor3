@@ -6,12 +6,12 @@ The main difference between the various editions of Tabular Editor 3, is which t
 
 - Power BI Desktop
 - Power BI Premium through the XMLA Endpoint (Premium Per User or **Premium/Embedded Capacity gen1/gen2**)
-- SQL Server (2016+) Analysis Services (Developer, Standard, **Enterprise editions**)
-- Azure Analysis Services (Developer, Basic, **Standard tiers**)
+- SQL Server (2016+) Analysis Services (Editions: Developer, Standard, **Enterprise**)
+- Azure Analysis Services (Tiers: Developer, Basic, **Standard**)
 
 We consider the **highlighted** flavors of Analysis Services to be Enterprise-Tier, and as such, these may only be used with Tabular Editor 3 Enterprise Edition. Please refer to the matrix below for the full overview of supported scenarios:
 
-|Scenario / Edition|Desktop|Standard|Enterprise
+|Scenario / Edition|Desktop|Business|Enterprise
 |---|---|---|---|
 |External Tool for Power BI Desktop|&#10004;|&#10004;|&#10004;|
 |Load/save model metadata to disk*|&#10060;|&#10004;†|&#10004;|
@@ -36,7 +36,7 @@ We consider the **highlighted** flavors of Analysis Services to be Enterprise-Ti
 
 Specifically for Analysis Services (not Power BI) data models, we restrict a few data modelling operations inside Tabular Editor 3 as well, corresponding to the restrictions on Azure Analysis Services Basic Tier and SQL Server Analysis Services Standard Edition:
 
-|Modelling Feature / Edition|Standard|Enterprise
+|Modelling Feature / Edition|Business|Enterprise
 |---|---|---|
 |Perspectives|&#10060;|&#10004;|
 |Multiple partitions|&#10060;|&#10004;|
@@ -54,7 +54,7 @@ There are no feature differences across the Tabular Editor 3 editions for Power 
 
 ## Personal vs. Transferable licenses
 
-Our Desktop Edition and Standard Editions uses a personal licensing model. This means, that a user receives their own personal License Key, which can not be shared or transferred to other users. When a user no longer requires the product, their subscription should be cancelled to avoid recurring payments.
+Our Desktop Edition and Business Edition uses a personal licensing model. This means, that a user receives their own personal License Key, which can not be shared or transferred to other users. When a user no longer requires the product, their subscription should be cancelled to avoid recurring payments.
 
 Our Enterprise Edition uses a transferable licensing model. This means, that multiple users can share the same license key. Each license holds a number of "seats" up to the purchased quantity. Once a user activates their installation of Tabular Editor 3, they will occupy a seat in the license. When a user no longer requires the product, <a href="mailto:support@tabulareditor.com?subject=Transferable%20License%20Rotation">contact support</a> in order to free the seat for another user.
 
