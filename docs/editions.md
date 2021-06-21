@@ -58,6 +58,16 @@ Our Desktop Edition and Business Edition uses a personal licensing model. This m
 
 Our Enterprise Edition uses a transferable licensing model. The license administrator receives a single License Key, which is then valid for a number of named users up to the quantity purchased. Users are identified by their e-mail address, which is entered the first time a user activates an installation of Tabular Editor 3. The license administrator may <a href="mailto:support@tabulareditor.com?subject=Transferable%20License%20Rotation">contact support</a> in case a user should be removed from the license, such as when an employee leaves the team.
 
+## Number of installations per user
+
+The table below lists the number of installations that can be active at a time, for any given user, using the specified type of license:
+
+| |Desktop|Business|Enterprise|
+|---|---|---|---|
+|Installations|1|1|3|
+
+You can deactivate an existing installation at any time from within the tool itself, by choosing the "Change license key..." option under "Help > About Tabular Editor". You may also <a href="mailto:support@tabulareditor.com?subject=Deactivation">contact support</a> if you need our assistance in deactivating an installation.
+
 ## Enterprise Edition Volume Discounts
 
 Our Enterprise Edition is priced in tiers, according to the following table (similar discount rates apply to monthly commitment):
