@@ -14,23 +14,23 @@ We consider the **highlighted** flavors of Analysis Services to be Enterprise-Ti
 |Scenario / Edition|Desktop|Business|Enterprise
 |---|---|---|---|
 |External Tool for Power BI Desktop|&#10004;|&#10004;|&#10004;|
-|Load/save model metadata to disk*|&#10060;|&#10004;†|&#10004;|
-|Workspace Mode‡|&#10060;|&#10004;†|&#10004;|
+|Load/save model metadata to disk**|&#10060;|&#10004;*|&#10004;|
+|Workspace Mode***|&#10060;|&#10004;*|&#10004;|
 |Power BI Premium Per User|&#10060;|&#10004;|&#10004;|
-|SQL Server Developer Edition|&#10060;|&#10004;†|&#10004;|
+|SQL Server Developer Edition|&#10060;|&#10004;*|&#10004;|
 |SQL Server Standard Edition|&#10060;|&#10004;|&#10004;|
 |SQL Server Enterprise Edition|&#10060;|&#10060;|&#10004;|
-|Azure AS Developer Tier|&#10060;|&#10004;†|&#10004;|
+|Azure AS Developer Tier|&#10060;|&#10004;*|&#10004;|
 |Azure AS Basic Tier|&#10060;|&#10004;|&#10004;|
 |Azure AS Standard Tier|&#10060;|&#10060;|&#10004;|
 |Power BI Premium Capacity (P SKUs)|&#10060;|&#10060;|&#10004;|
 |Power BI Embedded Capacity (A/EM SKUs)|&#10060;|&#10060;|&#10004;|
 
-\***Note:** Supported file formats are: **.pbit** (Power BI Template), **.bim** (Analysis Services model metadata), **.vpax** (VertiPaq Analyzer) and **database.json** (Tabular Editor folder structure).
+\***Note:** Enterprise Edition is required if the Analysis Services data model contains perspectives or tables with multiple partitions (does not apply to Power BI Desktop or Power BI Premium Per User models).
 
-†**Note:** Enterprise Edition is required if the Analysis Services data model contains perspectives or tables with multiple partitions (does not apply to Power BI Desktop or Power BI Premium Per User models).
+\*\***Note:** Supported file formats are: **.pbit** (Power BI Template), **.bim** (Analysis Services model metadata), **.vpax** (VertiPaq Analyzer) and **database.json** (Tabular Editor folder structure).
 
-‡**Note:** Workspace Mode allows Tabular Editor 3 to simultaneously save model metadata to disk and synchronize a database on any of the editions of Analysis Services or Power BI supported by the Tabular Editor 3 edition purchased.
+\*\*\***Note:** Workspace Mode allows Tabular Editor 3 to simultaneously save model metadata to disk and synchronize a database on any of the editions of Analysis Services or Power BI supported by the Tabular Editor 3 edition purchased.
 
 ## Modelling Restrictions for non-Power BI models
 
@@ -56,7 +56,7 @@ There are no feature differences across the Tabular Editor 3 editions for Power 
 
 Our Desktop Edition and Business Edition uses a personal licensing model. This means, that a user receives their own personal License Key, which can not be shared or transferred to other users. When a user no longer requires the product, their subscription should be cancelled to avoid recurring payments.
 
-Our Enterprise Edition uses a transferable licensing model. This means, that multiple users can share the same license key. Each license holds a number of "seats" up to the purchased quantity. Once a user activates their installation of Tabular Editor 3, they will occupy a seat in the license. When a user no longer requires the product, <a href="mailto:support@tabulareditor.com?subject=Transferable%20License%20Rotation">contact support</a> in order to free the seat for another user.
+Our Enterprise Edition uses a transferable licensing model. The license administrator receives a single License Key, which is then valid for a number of named users up to the quantity purchased. Users are identified by their e-mail address, which is entered the first time a user activates an installation of Tabular Editor 3. The license administrator may <a href="mailto:support@tabulareditor.com?subject=Transferable%20License%20Rotation">contact support</a> in case a user should be removed from the license, such as when an employee leaves the team.
 
 ## Enterprise Edition Volume Discounts
 
