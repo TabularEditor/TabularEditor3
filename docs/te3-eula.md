@@ -44,9 +44,9 @@ These Standard License Terms apply to the licensing and support of Licensor’s 
 2.4 	Licensor offers the following types of licenses for the Software: 
 |License features|Desktop Edition|Business Edition|Enterprise Edition|
 |---|---|---|---|
-|Community Support cf. Section 3.1|&#10004;|&#10004;&#10004;|
-|Dedicated Support cf. Section 3.2|||&#10004|
-|Transferable License cf. Section 2.7|||&#10004|
+|Community Support cf. Section 3.1|&#10004;|&#10004;|&#10004;|
+|Dedicated Support cf. Section 3.2|||&#10004;|
+|Transferable License cf. Section 2.7|||&#10004;|
 |Number of installations cf. Section 2.8|1|1|3|
 |Trial period cf. Section 2.9|N/A|N/A|30 days|
 
