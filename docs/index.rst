@@ -20,7 +20,6 @@ This is the documentation site for Tabular Editor 3 - the ultimate productivity 
   new-as-model
   new-pbi-model
 
-
 .. _legal-docs:
 .. toctree::
   :maxdepth: 0
