@@ -1,5 +1,6 @@
-THIRD PARTY NOTICES FOR TABULAR EDITOR 3
-========================================
+# Third Party Notices
+
+**Third Party Notices for Tabular Editor 3**
 
 This product incorporates third party components from the projects
 listed below. The original copyright notices and the licenses under
@@ -24,7 +25,7 @@ https://github.com/TabularEditor/TabularEditor3.
 
 -----------------------------------------------------------------
 
-License for Lexilla, Scintilla, and SciTE
+## License for Lexilla, Scintilla, and SciTE
 
 Copyright 1998-2021 by Neil Hodgson neilh@scintilla.org
 
@@ -47,7 +48,7 @@ OR PERFORMANCE OF THIS SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for Scintilla.NET
+## License for Scintilla.NET
   
 The MIT License (MIT)
 
@@ -73,9 +74,9 @@ SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for ANTLR
+## License for ANTLR
 
-[The "BSD 3-clause license"]
+The "BSD 3-clause license"
 Copyright (c) 2012-2017 The ANTLR Project. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -91,7 +92,7 @@ are met:
     may be used to endorse or promote products derived from this software
     without specific prior written permission.
 
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR
 IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
 OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
 IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
@@ -130,7 +131,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for Newtonsoft.Json
+## License for Newtonsoft.Json
 
 The MIT License (MIT)
 
@@ -156,7 +157,7 @@ IN THE SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for Dynamic-LINQ.net
+## License for Dynamic-LINQ.net
 
                                  Apache License
                            Version 2.0, January 2004
@@ -362,7 +363,7 @@ License for Dynamic-LINQ.net
 
 -----------------------------------------------------------------
 
-License for VertiPaq-Analyzer
+## License for VertiPaq-Analyzer
 
 MIT License
 
@@ -388,7 +389,7 @@ SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for TOMWrapper (Tabular Editor Open Source version)
+## License for TOMWrapper (Tabular Editor Open Source version)
 
 MIT License
 
@@ -414,7 +415,7 @@ SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for Microsoft.ApplicationInsights client libraries
+## License for Microsoft.ApplicationInsights client libraries
 
 MIT License
 
@@ -438,7 +439,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----------------------------------------------------------------
 
-License for MICROSOFT ANALYSIS MANAGEMENT OBJECTS (AMO)
+## License for MICROSOFT ANALYSIS MANAGEMENT OBJECTS (AMO)
 
 MICROSOFT SOFTWARE LICENSE TERMS
 
@@ -684,7 +685,7 @@ droits que vous confèrent les lois de votre pays si celles-ci ne le permettent 
 
 -----------------------------------------------------------------
 
-License for DevExpress WinForms Controls
+## License for DevExpress WinForms Controls
 
 End-User License Agreement
 			
