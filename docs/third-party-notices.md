@@ -26,7 +26,7 @@ https://github.com/TabularEditor/TabularEditor3.
 
 License for Lexilla, Scintilla, and SciTE
 
-Copyright 1998-2021 by Neil Hodgson <neilh@scintilla.org>
+Copyright 1998-2021 by Neil Hodgson neilh@scintilla.org
 
 All Rights Reserved
 
