@@ -11,7 +11,6 @@ This is the documentation site for Tabular Editor 3 - the ultimate productivity 
   getting-started
   editions
   downloads
-  security-privacy
 
 .. _howto-docs:
 .. toctree::
@@ -28,4 +27,6 @@ This is the documentation site for Tabular Editor 3 - the ultimate productivity 
   :caption: Legal
 
   te3-eula
+  security-privacy
   third-party-notices
+  privacy-policy
