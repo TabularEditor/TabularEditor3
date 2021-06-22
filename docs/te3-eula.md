@@ -1,4 +1,4 @@
-# License Terms regarding Tabular Editor 
+# Tabular Editor 3 End-user License Agreement 
 version 1.0, May 2021 
 ___________________________ 
 These Standard License Terms apply to the licensing and support of Licensor’s Software. The Licensee, by accepting these terms on Licensor’s website and/or using the Software, agrees to these Standard License Terms and any individual terms agreed at the time of subscription.
