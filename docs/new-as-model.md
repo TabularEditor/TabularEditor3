@@ -145,6 +145,11 @@ If you didn't use a Workspace Database, you will have to deploy your model to an
 
 To deploy the model metadata to any instance of Analysis Services, click on the "Model" menu and choose "Deploy...". This brings up the Tabular Editor 3 Deployment Wizard which is similar to the Deployment Wizard of Tabular Editor 2.X. Follow the instructions on the various pages of the wizard, to deploy the model metadata to an instance of Analysis Services. You can also use the Deployment Wizard to generate a TMSL/XMLA script, that can be handed over to an Analysis Services server administrator for manual deployment.
 
+```eval_rst
+.. image:: https://user-images.githubusercontent.com/8976200/124607262-f5b4cb00-de6d-11eb-8139-4f74b5ae19bf.png
+  :width: 450
+```
+
 To refresh and test the deployed database, you can use the standard management and client tools provided by Microsoft, or you can use another instance of Tabular Editor 3 (assuming you have administrative access on the instance of Analysis Services where the deployed model resides).
 
 The paragraph above provides a good reason for using the Workspace Database approach described above. When connected to a workspace database, you will be able to perform all development operations, including data refresh and testing of business logic within the same instance of Tabular Editor 3, without having to rely on other tools.
