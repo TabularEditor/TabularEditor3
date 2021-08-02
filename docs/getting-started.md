@@ -2,7 +2,7 @@
 
 (The following section assumes that you are somewhat familiar with the open-source Tabular Editor 2).
 
-Features at-a-glance:
+Tabular Editor 3 adds the following features that are not available in the open-source version:
 
 - UI overhaul
   - Visual Studio-like, fully customizable shell
