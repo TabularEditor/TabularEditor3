@@ -1,4 +1,4 @@
-![fulllogo](https://user-images.githubusercontent.com/8976200/193216600-6911225c-1370-4c47-9882-a1c496ee2ad1.png)
+![Tabular Editor 3 logo](https://user-images.githubusercontent.com/8976200/193217149-97b85732-759d-48eb-9dc6-8b62c0e38671.png)
 
 This is the Community Support forum for **Tabular Editor 3**.
 
