@@ -1,14 +1,15 @@
 name: Bug Report
 description: Found something you weren't expecting? Report it here!
+labels: ["template: bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        NOTE: If you wish to suggest an enhancement idea or have a question, please visit our [discussion forum](https://github.com/TabularEditor/TabularEditor3/discussions)
+        **NOTE:** If you wish to suggest an enhancement idea or have a question, please visit our [discussion forum](https://github.com/TabularEditor/TabularEditor3/discussions)
   - type: markdown
     attributes:
       value: |
-        Please fill out the following form to create an issue.
+        ## Please fill out the following form to create a bug report.
   - type: textarea
     id: description
     attributes:
@@ -28,11 +29,11 @@ body:
     id: screenshots
     attributes:
       label: Screenshots
-      description: Please provide one or more screenshots/GIFs that show the issue. 
+      description: Please provide one or more screenshots or GIFs that show the issue. 
   - type: markdown
     attributes:
       value: |
-        It's very helpful to us if you can describe the steps to reproduce your issue.
+        It's very helpful to us if you can describe the steps to reproduce your issue. For Example:
         1. Go to '...'
         2. Click on '....'
         3. Scroll down to '....'
