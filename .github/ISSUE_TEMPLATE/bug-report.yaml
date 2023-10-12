@@ -1,0 +1,59 @@
+name: Bug Report
+description: Found something you weren't expecting? Report it here!
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NOTE: If you wish to suggest an enhancement idea or have a question, please visit our [discussion forum](https://github.com/TabularEditor/TabularEditor3/discussions)
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the following form to create an issue.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Please provide a clear and concise description of your issue here:
+    validations:
+      required: true
+  - type: input
+    id: te2-ver
+    attributes:
+      label: Tabular Editor 3 Version
+      description: Please provide the version of Tabular Editor 3 (3.X.Y)
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please provide one or more screenshots/GIFs that show the issue. 
+  - type: markdown
+    attributes:
+      value: |
+        It's very helpful to us if you can describe the steps to reproduce your issue.
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Please describe how to reproduce your issue. 
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+  - type: textarea
+    id: crash_report
+    attributes:
+      label: Crash Report
+      description: Please copy the text of any crash report you received.
+  - type: input
+    id: os-ver
+    attributes:
+      label: Windows Version
+      description: The version of Windows Tabular Editor is running on e.g. 10/11

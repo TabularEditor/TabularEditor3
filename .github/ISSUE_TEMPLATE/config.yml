@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature Request or enchantment?
+    url: https://github.com/TabularEditor/TabularEditor3/discussions/categories/3-ideas
+    about: Please direct these to our Forum dedicated to new feature suggestions
+  - name: Have a question?
+    url: https://github.com/TabularEditor/TabularEditor3/discussions/categories/2-te-q-a
+    about: Please direct these to our discussion forum and lets chat there. 
+  - name: Tabular Editor 3 Documentation
+    url: https://docs.tabulareditor.com/te3/
+    about: Please check our documentation for guides and walkthroughs.
+  - name: Tabular Editor 2
+    url: https://github.com/TabularEditor/TabularEditor/issues
+    about: Is your issue concerned with Tabular Editor 2? Please refer to the dedicated page here.
