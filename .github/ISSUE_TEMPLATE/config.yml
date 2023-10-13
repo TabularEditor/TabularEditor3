@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feature Request or enchantment?
+  - name: Feature Request or enhancement?
     url: https://github.com/TabularEditor/TabularEditor3/discussions/categories/3-ideas
     about: Please direct these to our Forum dedicated to new feature suggestions
   - name: Have a question?
