@@ -1,4 +1,4 @@
-![Tabular Editor 3 logo](https://github.com/user-attachments/assets/fc35f6a6-656d-4e17-857f-7d7eca54061b)
+![Tabular Editor 3 logo](/media/tabular-editor-logo-rgb-pos.png)
 
 
 This is the Community Support forum for **Tabular Editor 3**.
