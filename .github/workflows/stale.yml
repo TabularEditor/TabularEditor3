@@ -1,0 +1,41 @@
+# .github/workflows/stale.yml
+name: Close Stale Issues that are Awaiting Reply
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Only look at issues, not PRs
+          exempt-all-prs: true
+
+          # Label that must be set to trigger staleness
+          only-labels: 'issue: awaiting reply'
+
+          # Warn after 90 days of inactivity
+          days-before-stale: 90
+          stale-issue-label: 'stale'
+          stale-issue-message: >
+            👋 Hi there! Just checking in; this issue hasn't seen any activity in a while.
+            Do you still need help with this, or has it been resolved?
+            If we don't hear back in 90 days, we'll go ahead and close it to keep things tidy.
+            Feel free to comment anytime to keep it open!
+
+          # Close 90 days after the warning
+          days-before-close: 90
+          close-issue-message: >
+            👋 We're closing this issue due to inactivity. No worries though!
+            If this is still relevant, feel free to reopen it or create a new one.
+            We're always happy to help! 😊
+
+          # Don't touch PRs at all
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
