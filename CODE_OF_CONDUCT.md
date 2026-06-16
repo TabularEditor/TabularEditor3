@@ -1,89 +1,186 @@
-# Citizen Code of Conduct
+# Code of Conduct
 
-## 1. Purpose
+## Our Pledge
 
-A primary goal of the Tabular Editor 3 Support Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+We pledge to make the Tabular Editor 3 community welcoming, safe, and
+equitable for all.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+We are committed to fostering an environment that respects and promotes the
+dignity, rights, and contributions of all individuals, regardless of
+characteristics including race, ethnicity, caste, color, age, physical
+characteristics, neurodiversity, disability, sex or gender, gender identity or
+expression, sexual orientation, language, philosophy or religion, national or
+social origin, socio-economic position, level of education, or other status.
+The same privileges of participation are extended to everyone who participates
+in good faith and in accordance with this Code of Conduct.
 
-We invite all those who participate in the Tabular Editor 3 Support Community to help us create safe and positive experiences for everyone.
+## Encouraged Behaviors
 
-## 2. Open Data Family Citizenship
+While acknowledging differences in social norms, we all strive to meet our
+community's expectations for positive behavior. We also understand that our
+words and actions may be interpreted differently than we intend based on
+culture, background, or native language.
 
-A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+With these considerations in mind, we agree to behave mindfully toward each
+other and act in ways that center our shared values, including:
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+* Respecting the purpose of our community, our activities, and our ways of
+  gathering.
+* Engaging kindly and honestly with others.
+* Respecting different viewpoints and experiences.
+* Taking responsibility for our actions and contributions.
+* Gracefully giving and accepting constructive feedback.
+* Committing to repairing harm when it occurs.
+* Behaving in other ways that promote and sustain the well-being of our
+  community.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+## Restricted Behaviors
 
-## 3. Expected Behavior
+We agree to restrict the following behaviors in our community. Instances,
+threats, and promotion of these behaviors are violations of this Code of
+Conduct.
 
-The following behaviors are expected and requested of all community members:
+* **Harassment.** Violating explicitly expressed boundaries or engaging in
+  unnecessary personal attention after any clear request to stop.
+* **Character attacks.** Making insulting, demeaning, or pejorative comments
+  directed at a community member or group of people.
+* **Stereotyping or discrimination.** Characterizing anyone's personality or
+  behavior on the basis of immutable identities or traits.
+* **Sexualization.** Behaving in a way that would generally be considered
+  inappropriately intimate in the context or purpose of the community.
+* **Violating confidentiality.** Sharing or acting on someone's personal or
+  private information without their permission.
+* **Endangerment.** Causing, encouraging, or threatening violence or other
+  harm toward any person or group.
+* Behaving in other ways that threaten the well-being of our community.
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+## Other Restrictions
 
-## 4. Unacceptable Behavior
+* **Misleading identity.** Impersonating someone else for any reason, or
+  pretending to be someone else to evade enforcement actions.
+* **Failing to credit sources.** Not properly crediting the sources of content
+  you contribute.
+* **Advertising and self-promotion.** Advertising, promoting, or soliciting for
+  other products, services, projects, or commercial offerings is not allowed.
+  This includes unsolicited marketing, affiliate or referral links, recruitment,
+  and posts whose primary purpose is to drive attention to something other than
+  the topic at hand.
 
-The following behaviors are considered harassment and are unacceptable within our community:
+  This restriction is **not** intended to prevent useful technical discussion.
+  It is perfectly acceptable to mention, compare, recommend, or link to other
+  products and tools — including commercial ones — when doing so is genuinely
+  relevant to the question, issue, or conversation. For example, suggesting a
+  complementary tool that solves part of a problem, comparing how another
+  product approaches a feature, or pointing someone to documentation elsewhere
+  is welcome. The distinction is one of intent: relevant, good-faith discussion
+  is encouraged, while using the community primarily as a channel to advertise
+  is not.
+* **Irresponsible communication.** Failing to responsibly present content which
+  includes, links to, or describes any other restricted behaviors.
 
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
+## Reporting an Issue
 
-## 6. Consequences of Unacceptable Behavior
+Tensions can occur between community members even when they are trying their
+best to collaborate. Not every conflict represents a code of conduct violation,
+and this Code of Conduct reinforces encouraged behaviors and norms that can help
+avoid conflicts and minimize harm.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+When an incident does occur, it is important to report it promptly. To report a
+possible violation, contact the maintainers at
+[support@tabulareditor.com](mailto:support@tabulareditor.com). Reports are
+handled confidentially.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Community moderators take reports of violations seriously and will make every
+effort to respond in a timely manner. They will investigate all reports of code
+of conduct violations, reviewing messages, logs, and other relevant records, or
+interviewing witnesses and other participants. Community moderators will keep
+investigation and enforcement actions as transparent as possible while
+prioritizing safety and confidentiality. In order to honor these values,
+enforcement actions are carried out in private with the involved parties, but
+communicating to the whole community may be part of a mutually agreed upon
+resolution.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+## Addressing and Repairing Harm
 
-## 7. Reporting Guidelines
+If an investigation by the community moderators finds that this Code of Conduct
+has been violated, the following enforcement ladder may be used to determine how
+best to repair harm, based on the incident's impact on the individuals involved
+and the community as a whole. Depending on the severity of a violation, lower
+rungs on the ladder may be skipped.
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. You can always contact Tabular Editor Aps at support@tabulareditor.com.
+### Warning
 
+* **Event:** A violation involving a single incident or series of incidents.
+* **Consequence:** A private, written warning from the community moderators.
+* **Repair:** Examples of repair include a private written apology,
+  acknowledgement of responsibility, and seeking clarification on expectations.
 
+### Temporarily Limited Activities
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+* **Event:** A repeated incidence of a violation that previously resulted in a
+  warning, or the first incidence of a more serious violation.
+* **Consequence:** A private, written warning with a time-limited cooldown
+  period designed to underscore the seriousness of the situation and give the
+  community members involved time to process the incident. The cooldown period
+  may be limited to particular communication channels or interactions with
+  particular community members.
+* **Repair:** Examples of repair may include making an apology, using the
+  cooldown period to reflect on actions and impact, and being thoughtful about
+  re-entering community spaces after the period is over.
 
-## 8. Addressing Grievances
+### Temporary Suspension
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Tabular Editor Aps with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
+* **Event:** A pattern of repeated violation which the community moderators have
+  tried to address with warnings, or a single serious violation.
+* **Consequence:** A private written warning with conditions for return from
+  suspension. In general, temporary suspensions give the person being suspended
+  time to reflect upon their behavior and possible corrective actions.
+* **Repair:** Examples of repair include respecting the spirit of the
+  suspension, meeting the specified conditions for return, and being thoughtful
+  about how to reintegrate with the community when the suspension is lifted.
 
+### Permanent Ban
 
+* **Event:** A pattern of repeated code of conduct violations that other steps
+  on the ladder have failed to resolve, or a violation so serious that the
+  community moderators determine there is no way to keep the community safe with
+  this person as a member.
+* **Consequence:** Access to all community spaces, tools, and communication
+  channels is removed. In general, permanent bans should be rarely used, should
+  have strong reasoning behind them, and should only be resorted to if working
+  through other remedies has failed to change the behavior.
+* **Repair:** There is no possible repair in cases of this severity.
 
-## 9. Scope
+This enforcement ladder is intended as a guideline. It does not limit the
+ability of the maintainers and community moderators to use their discretion and
+judgment, in keeping with the best interests of our community.
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+## Scope
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This Code of Conduct applies within all community spaces — including the GitHub
+repository, issues, pull requests, and discussions — and also applies when an
+individual is officially representing the community in public or other spaces.
+Examples of representing our community include using an official email address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-## 10. Contact info
+## Contact
 
-support@tabulareditor.com
+[support@tabulareditor.com](mailto:support@tabulareditor.com)
 
-## 11. License and attribution
+## Attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 3.0, permanently available at
+<https://www.contributor-covenant.org/version/3/0/>.
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Contributor Covenant is stewarded by the Organization for Ethical Source and
+licensed under CC BY-SA 4.0. To view a copy of this license, visit
+<https://creativecommons.org/licenses/by-sa/4.0/>.
 
-_Revision 2.3. Posted 6 March 2017._
+For answers to common questions about Contributor Covenant, see the FAQ at
+<https://www.contributor-covenant.org/faq>. Translations are available at
+<https://www.contributor-covenant.org/translations>. The enforcement ladder was
+inspired by the work of Mozilla's code of conduct team.
 
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+[homepage]: https://www.contributor-covenant.org
